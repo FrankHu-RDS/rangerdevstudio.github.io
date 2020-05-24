@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en-US"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script><script>var et_site_url='https://frankhu-rds.github.io/rangerdevstudio.github.io';var et_post_id='173';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Covid-19 Our Response - RDS - Your 100% Hands-Off Managed Website Service</title><meta name="robots" content="index, follow"><meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Covid-19 Our Response - RDS - Your 100% Hands-Off Managed Website Service"><meta property="og:url" content="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/28/covid-19-our-response/"><meta property="og:site_name" content="RDS - Your 100% Hands-Off Managed Website Service"><meta property="article:published_time" content="2020-04-28T03:19:43+00:00"><meta property="article:modified_time" content="2020-04-28T03:31:23+00:00"><meta name="twitter:card" content="summary_large_image"><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://frankhu-rds.github.io/rangerdevstudio.github.io/#website","url":"https://frankhu-rds.github.io/rangerdevstudio.github.io/","name":"RDS - Your 100% Hands-Off Managed Website Service","description":"Let Us Build Your Website, So You Can Build Your Business","potentialAction":[{"@type":"SearchAction","target":"https://frankhu-rds.github.io/rangerdevstudio.github.io/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/28/covid-19-our-response/#webpage","url":"https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/28/covid-19-our-response/","name":"Covid-19 Our Response - RDS - Your 100% Hands-Off Managed Website Service","isPartOf":{"@id":"https://frankhu-rds.github.io/rangerdevstudio.github.io/#website"},"datePublished":"2020-04-28T03:19:43+00:00","dateModified":"2020-04-28T03:31:23+00:00","author":{"@id":"https://frankhu-rds.github.io/rangerdevstudio.github.io/#/schema/person/956d1c526b5a632d1b0aad2cee6adf54"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/28/covid-19-our-response/"]}]},{"@type":["Person"],"@id":"https://frankhu-rds.github.io/rangerdevstudio.github.io/#/schema/person/956d1c526b5a632d1b0aad2cee6adf54","name":"Michael Chan","image":{"@type":"ImageObject","@id":"https://frankhu-rds.github.io/rangerdevstudio.github.io/#personlogo","inLanguage":"en-US","url":"https://secure.gravatar.com/avatar/f231721abdb98ac71d721c4c674ee18a?s=96&d=mm&r=g","caption":"Michael Chan"}}]}</script><link rel="dns-prefetch" href="//www.google.com"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//s.w.org"><script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-120060337-2';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-120060337-2', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script><link rel="stylesheet" id="wp-block-library-css" href="https://c0.wp.com/c/5.4.1/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all"><style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style><link rel="stylesheet" id="et_monarch-css-css" href="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/plugins/monarch/css/style.css" type="text/css" media="all"><link rel="stylesheet" id="et-gf-open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all"><link rel="stylesheet" id="divi-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,latin-ext" type="text/css" media="all"><link rel="stylesheet" id="divi-style-css" href="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/themes/Divi/style.css" type="text/css" media="all"><link rel="stylesheet" id="dashicons-css" href="https://c0.wp.com/c/5.4.1/wp-includes/css/dashicons.min.css" type="text/css" media="all"><link rel="stylesheet" id="jetpack_css-css" href="https://c0.wp.com/p/jetpack/8.5/css/jetpack.css" type="text/css" media="all"><script type="text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/PLACEHOLDER.wpsho","hash_tracking":"false"};
+/* ]]> */
+</script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js"></script><script type="text/javascript" src="https://c0.wp.com/c/5.4.1/wp-includes/js/jquery/jquery.js"></script><script type="text/javascript" src="https://c0.wp.com/c/5.4.1/wp-includes/js/jquery/jquery-migrate.min.js"></script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6Lcl6eIUAAAAABpcSGTuKQhlrq0cV4QzynkGlLNA&ver=5.4.1"></script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"6Lcl6eIUAAAAABpcSGTuKQhlrq0cV4QzynkGlLNA","page_action":{"action":"covid_19_our_response"}};
+/* ]]> */
+</script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/themes/Divi/core/admin/js/recaptcha.js"></script><style type="text/css" id="et-social-custom-css">
+				
+			</style><link rel="dns-prefetch" href="//c0.wp.com"><link rel="dns-prefetch" href="//i0.wp.com"><link rel="dns-prefetch" href="//i1.wp.com"><link rel="dns-prefetch" href="//i2.wp.com"><style type="text/css">img#wpstats{display:none}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><link rel="icon" href="https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/01/cropped-logo_size_icon.jpg?fit=32%2C32&ssl=1" sizes="32x32"><link rel="icon" href="https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/01/cropped-logo_size_icon.jpg?fit=192%2C192&ssl=1" sizes="192x192"><link rel="apple-touch-icon" href="https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/01/cropped-logo_size_icon.jpg?fit=180%2C180&ssl=1"><meta name="msapplication-TileImage" content="https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/01/cropped-logo_size_icon.jpg?fit=270%2C270&ssl=1"><style id="et-core-unified-173-cached-inline-styles">#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}.footer-widget,.footer-widget li,.footer-widget li a,#footer-info{font-size:13px}#footer-widgets .footer-widget li:before{top:8.05px}#footer-info,#footer-info a{color:#ffffff}.et_slide_in_menu_container,.et_slide_in_menu_container .et-search-field{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-moz-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-webkit-input-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field:-ms-input-placeholder{letter-spacing:px}@media only screen and (min-width:981px){.footer-widget h4{font-size:10px}.et_header_style_left #et-top-navigation,.et_header_style_split #et-top-navigation{padding:34px 0 0 0}.et_header_style_left #et-top-navigation nav>ul>li>a,.et_header_style_split #et-top-navigation nav>ul>li>a{padding-bottom:34px}.et_header_style_split .centered-inline-logo-wrap{width:67px;margin:-67px 0}.et_header_style_split .centered-inline-logo-wrap #logo{max-height:67px}.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo{height:67px}.et_header_style_centered #top-menu>li>a{padding-bottom:12px}.et_header_style_slide #et-top-navigation,.et_header_style_fullscreen #et-top-navigation{padding:25px 0 25px 0!important}.et_header_style_centered #main-header .logo_container{height:67px}#logo{max-height:100%}.et_pb_svg_logo #logo{height:100%}.et_header_style_left .et-fixed-header #et-top-navigation,.et_header_style_split .et-fixed-header #et-top-navigation{padding:27px 0 0 0}.et_header_style_left .et-fixed-header #et-top-navigation nav>ul>li>a,.et_header_style_split .et-fixed-header #et-top-navigation nav>ul>li>a{padding-bottom:27px}.et_header_style_centered header#main-header.et-fixed-header .logo_container{height:54px}.et_header_style_split #main-header.et-fixed-header .centered-inline-logo-wrap{width:54px;margin:-54px 0}.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{max-height:54px}.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo{height:54px}.et_header_style_slide .et-fixed-header #et-top-navigation,.et_header_style_fullscreen .et-fixed-header #et-top-navigation{padding:18px 0 18px 0!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}</style></head><body data-rsssl="1" class="post-template-default single single-post postid-173 single-format-standard et_bloom et_monarch et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns1 et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_right_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="67"><div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/">
+						<img src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/uploads/2020/01/MainRDSLogoCropped.jpg" alt=" RDS - Your 100% Hands-Off Managed Website Service" id="logo" data-height-percentage="100"></a>
+				</div>
+							<div id="et-top-navigation" data-height="67" data-fixed-height="54">
+											<nav id="top-menu-nav"><ul id="top-menu" class="nav"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-28"><a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/">Home</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/client-portfolio/">Client Portfolio</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197"><a href="https://rangerdevsupport.microsoftcrmportals.com/">Support Portal</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/checkout/">Checkout</a></li>
+</ul></nav><div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> 
+			</div> 
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="https://frankhu-rds.github.io/rangerdevstudio.github.io/">
+					<input type="search" class="et-search-field" placeholder="Search …" value="" name="s" title="Search for:"></form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header><div id="et-main-area">
+	
+<div id="main-content">
+		<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+											<article id="post-173" class="et_pb_post post-173 post type-post status-publish format-standard hentry category-business"><div class="et_post_meta_wrapper">
+							<h1 class="entry-title">Covid-19 Our Response</h1>
+
+						<p class="post-meta"> by <span class="author vcard"><a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/author/mchan/" title="Posts by Michael Chan" rel="author">Michael Chan</a></span> | <span class="published">Apr 28, 2020</span> | <a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/category/business/" rel="category tag">Business</a> | <span class="comments-number"><a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/28/covid-19-our-response/#respond">0 comments</a></span></p>
+												</div> 
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0 et_section_regular">
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?w=1080&ssl=1" alt="" title="" srcset="https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?w=2560&ssl=1 2560w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=300%2C100&ssl=1 300w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=1024%2C341&ssl=1 1024w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=768%2C256&ssl=1 768w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=1536%2C511&ssl=1 1536w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=2048%2C682&ssl=1 2048w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=610%2C203&ssl=1 610w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=1080%2C359&ssl=1 1080w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=1280%2C426&ssl=1 1280w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=980%2C326&ssl=1 980w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?resize=480%2C160&ssl=1 480w,https://i0.wp.com/rangerdevstudio.com/wp-content/uploads/2020/04/cv.png?w=2160&ssl=1 2160w" sizes="(max-width: 1080px) 100vw, 1080px" data-recalc-dims="1"></span>
+			</div>
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Dear Customers,</h2>
+<p>First and foremost we want to our customers to know that we are keeping each one of you in our thoughts and prayers and hope your family is staying safe and healthy right now.</p>
+<p>We also want to say a BIG THANK YOU to all of our customers. We know in these challenging times for each of your businesses that you are all dealing with uncertainties and challenges and we thank you for entrusting us to lead your digital efforts as they are now more important than ever.</p>
+<p>Below we want to outline what RDS will be doing to ramp up our efforts to empower every one of our customer’s organizations during these times.</p></div>
+			</div> 
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Free Zoom Integration</h2></div>
+			</div> 
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>One of the biggest tools on the forefront of helping businesses communicate Zoom is now coming to the RDS platform for FREE! For many new or even existing clients we are currently integrating their websites with Zoom video conferencing. Whether its Zoom meetings through their site for customer facing visits or simply to empower their workforce to collaborate every client can now leverage Zoom video conferencing through their RDS website. We also have the ability to pair this up with our RDS Appointment booking platform to allow for payment while offering your businesses services through digital communication. If you think your business would benefit from having Zoom contact us to find out more.</p></div>
+			</div> 
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>One Free Month</h2></div>
+			</div> 
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>We know how difficult it can be getting a new business off the ground especially during these unprecendented times. Our commitment is to helping entrepreneurs create the small business of their dreams so one step we are taking to help new clients is we are waiving their first month’s service fee! Let us show how the RDS platform can bring your business online and bring added value to you for one month and we know you will be hooked. If your unhappy for any reason feel free to cancel after the first month and as always there is no cancellation fees.</p></div>
+			</div> 
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>Free Online Ordering Platform for Three Months</h2></div>
+			</div> 
+			</div> 
+				
+				
+			</div> <div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>During these times of uncertainty, we know how difficult it is to get and retain business. With stores closing, and social distancing measures in place, doing physical business is not a viable option anymore. Even popular entrepeneur Gary Vaynerchuck has written an article about why every store needs to be doing “e-commerce” (an online ordering platform). You can   learn more about that here : <a href="https://www.garyvaynerchuk.com/why-companies-need-to-lean-into-e-commerce-now-more-than-ever/">https://www.garyvaynerchuk.com/why-companies-need-to-lean-into-e-commerce-now-more-than-ever/</a></p>
+<p>That’s why we’re offering a free online store platform for you and your business for three months free. We will build out an online store that can handle delivery via Post-mates so that you can keep your business going.</p></div>
+			</div> 
+			</div> 
+				
+				
+			</div> 
+				
+				
+			</div> 		</div>
+	</div>
+	
+			
+		</div>
+							</div> 
+					<div class="et_post_meta_wrapper">
+					
+
+<section id="comment-wrap"><div id="comment-section" class="nocomments">
+		  			 
+
+		  	   </div>
+					<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title"><span>Submit a Comment</span> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2020/04/28/covid-19-our-response/#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required="required"></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required="required"></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200"></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"><label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit et_pb_button" value="Submit Comment"><input type="hidden" name="comment_post_ID" value="173" id="comment_post_ID"><input type="hidden" name="comment_parent" id="comment_parent" value="0"></p></form>	</div>
+		</section></div> 
+				</article></div> 
+
+				<div id="sidebar">
+		<div id="search-2" class="et_pb_widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="https://frankhu-rds.github.io/rangerdevstudio.github.io/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s"><input type="submit" id="searchsubmit" value="Search"></div>
+			</form></div> 		<div id="recent-posts-2" class="et_pb_widget widget_recent_entries">		<h4 class="widgettitle">Recent Posts</h4>		<ul><li>
+					<a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/29/google-calendar-and-appointment-booking-integration-tutorial/">Google Calendar and Appointment Booking Integration Tutorial</a>
+									</li>
+											<li>
+					<a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/04/28/covid-19-our-response/" aria-current="page">Covid-19 Our Response</a>
+									</li>
+											<li>
+					<a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/01/16/5-reasons-why-restaurants-should-ditch-platforms-like-grubhub-and-ubereats-and-make-a-business-website-instead/">5 Reasons Why Restaurants Should Ditch Platforms Like Grubhub and Ubereats and Make a Business Website Instead</a>
+									</li>
+					</ul></div> <div id="recent-comments-2" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="https://royalcbd.com/" rel="external nofollow ugc" class="url">Justin Hamilton</a></span> on <a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/01/16/5-reasons-why-restaurants-should-ditch-platforms-like-grubhub-and-ubereats-and-make-a-business-website-instead/#comment-4">5 Reasons Why Restaurants Should Ditch Platforms Like Grubhub and Ubereats and Make a Business Website Instead</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://royalcbd.org/" rel="external nofollow ugc" class="url">cbd oil</a></span> on <a href="https://frankhu-rds.github.io/rangerdevstudio.github.io/2020/01/16/5-reasons-why-restaurants-should-ditch-platforms-like-grubhub-and-ubereats-and-make-a-business-website-instead/#comment-3">5 Reasons Why Restaurants Should Ditch Platforms Like Grubhub and Ubereats and Make a Business Website Instead</a></li></ul></div> 	</div> 
+		</div> 
+	</div> 
+	</div> 
+
+
+			<footer id="main-footer"><div id="footer-bottom">
+					<div class="container clearfix">
+				<ul class="et-social-icons"></ul></div>	
+				</div>
+			</footer></div> 
+
+
+	</div> 
+
+	<script type="text/javascript" src="https://c0.wp.com/p/jetpack/8.5/_inc/build/photon/photon.min.js"></script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/plugins/monarch/js/idle-timer.min.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/frankhu-rds.github.io\/rangerdevstudio.github.io\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/frankhu-rds.github.io\/rangerdevstudio.github.io\/2020\/04\/28\/covid-19-our-response\/","stats_nonce":"f2b052864c","share_counts":"5e0a20d1b8","follow_counts":"65fbd8cc36","total_counts":"7fb3bc5117","media_single":"82f5dfc071","media_total":"30d908283e","generate_all_window_nonce":"94888605e6","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/plugins/monarch/js/custom.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/frankhu-rds.github.io\/rangerdevstudio.github.io\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/frankhu-rds.github.io\/rangerdevstudio.github.io\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/frankhu-rds.github.io\/rangerdevstudio.github.io\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"d1792762db","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"3ec31ee6d8","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"173","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/themes/Divi/js/custom.unified.js"></script><script type="text/javascript" src="https://frankhu-rds.github.io/rangerdevstudio.github.io/wp-content/themes/Divi/core/admin/js/common.js"></script><style id="et-core-unified-173-cached-inline-styles-2">.et_pb_image_0{text-align:left;margin-left:0}@media only screen and (max-width:980px){.et_pb_image_0{margin-left:auto;margin-right:auto}}@media only screen and (max-width:767px){.et_pb_image_0{margin-left:auto;margin-right:auto}}</style><script type="text/javascript" src="https://stats.wp.com/e-202021.js" async="async" defer></script><script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.5',blog:'171761547',post:'173',tz:'0',srv:'rangerdevstudio.com'} ]);
+	_stq.push([ 'clickTrackerInit', '171761547', '173' ]);
+</script></body></html>

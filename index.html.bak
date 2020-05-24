@@ -576,7 +576,7 @@ var et_core_api_spam_recaptcha = {"site_key":"6Lcl6eIUAAAAABpcSGTuKQhlrq0cV4Qzyn
 				
 				
 				<div class="et_pb_promo_description"><h2 class="et_pb_module_header">Interested in Seeing More Sites? </h2></div>
-				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="https://frankhu-rds.github.io/rangerdevstudio.github.io/client-portfolio">Click Here for More!</a></div>
+				<div class="et_pb_button_wrapper"><a class="et_pb_button et_pb_promo_button" href="https://frankhu-rds.github.io/rangerdevstudio.github.io/index.php/client-portfolio/">Click Here for More!</a></div>
 			</div>
 			</div> 
 				
@@ -684,7 +684,7 @@ var et_core_api_spam_recaptcha = {"site_key":"6Lcl6eIUAAAAABpcSGTuKQhlrq0cV4Qzyn
 				<div class="et-pb-contact-message"></div>
 				
 				<div class="et_pb_contact">
-					<form class="et_pb_contact_form clearfix" method="post" action="https://frankhu-rds.github.io/rangerdevstudio.github.io/page/1">
+					<form class="et_pb_contact_form clearfix" method="post" action="https://frankhu-rds.github.io/rangerdevstudio.github.io/">
 						<p class="et_pb_contact_field et_pb_contact_field_0 et_pb_contact_field_half" data-id="name" data-type="input">
 				
 				
@@ -702,7 +702,7 @@ var et_core_api_spam_recaptcha = {"site_key":"6Lcl6eIUAAAAABpcSGTuKQhlrq0cV4Qzyn
 							
 							<button type="submit" name="et_builder_submit_button" class="et_pb_contact_submit et_pb_button">Send</button>
 						</div>
-						<input type="hidden" id="_wpnonce-et-pb-contact-form-submitted-0" name="_wpnonce-et-pb-contact-form-submitted-0" value="526223b33d"><input type="hidden" name="_wp_http_referer" value="/page/1"></form>
+						<input type="hidden" id="_wpnonce-et-pb-contact-form-submitted-0" name="_wpnonce-et-pb-contact-form-submitted-0" value="526223b33d"><input type="hidden" name="_wp_http_referer" value="/"></form>
 				</div> 
 			</div> 
 			<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0 clearfix  et_pb_text_align_center et_pb_bg_layout_light"><li class="et_pb_social_media_follow_network_0 et_pb_social_icon et_pb_social_network_link  et-social-facebook et_pb_social_media_follow_network_0"><a href="https://www.facebook.com/RangerDevStudio" class="icon et_pb_with_border" title="Follow on Facebook" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_1 et_pb_social_icon et_pb_social_network_link  et-social-twitter et_pb_social_media_follow_network_1"><a href="https://twitter.com/ranger_dev" class="icon et_pb_with_border" title="Follow on Twitter" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_2 et_pb_social_icon et_pb_social_network_link  et-social-instagram et_pb_social_media_follow_network_2"><a href="https://www.instagram.com/rangerdevstudio/" class="icon et_pb_with_border" title="Follow on Instagram" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li><li class="et_pb_social_media_follow_network_3 et_pb_social_icon et_pb_social_network_link  et-social-youtube et_pb_social_media_follow_network_3"><a href="https://www.youtube.com/channel/UC1RuQgiENHwZtX2Me8ZNGuQ" class="icon et_pb_with_border" title="Follow on Youtube" target="_blank"><span class="et_pb_social_media_follow_network_name" aria-hidden="true">Follow</span></a></li>
